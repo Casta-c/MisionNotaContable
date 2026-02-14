@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    background:#101010;
+    color:white;
+    padding:20px;
+}
+#game {
+    max-width: 750px;
+    margin:auto;
+    background:#1f1f1f;
+    padding:20px;
+    border-radius:10px;
+}
+h1 {
+    text-align:center;
+    color:#4ee44e;
+}
+.btn {
+    background:#4ee44e;
+    color:black;
+    padding:12px;
+    margin:10px 0;
+    border:none;
+    width:100%;
+    cursor:pointer;
+    border-radius:8px;
+    font-size:16px;
+}
+.btn:hover { background:#74ff74; }
+
+#stats {
+    margin-top:20px;
+    background:#242424;
+    padding:10px;
+    border-radius:8px;
+}
